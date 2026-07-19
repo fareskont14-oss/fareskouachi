@@ -163,6 +163,6 @@
   },
   "optionsFca_note": "FCA options have been moved to fca-config.json",
   "commandMoney": {
-    "command name ": 5000
+    "command name ": 1000
   }
 }
